@@ -12,7 +12,10 @@ namespace CalorieCounting
         static void Main(string[] args)
         {
             string[] lines = File.ReadAllLines("../../../../../libs/input.txt");
-            Console.WriteLine(lines[0]);
+            foreach (string line in lines)
+            {
+                Console.WriteLine(line);
+            }
             Console.ReadLine();
         }
     }
