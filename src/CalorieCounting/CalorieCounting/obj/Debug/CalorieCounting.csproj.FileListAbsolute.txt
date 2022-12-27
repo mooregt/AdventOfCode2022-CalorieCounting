@@ -1,0 +1,13 @@
+E:\dev\AdventOfCode2022-CalorieCounting\src\CalorieCounting\CalorieCounting\bin\Debug\CalorieCounting.exe.config
+E:\dev\AdventOfCode2022-CalorieCounting\src\CalorieCounting\CalorieCounting\bin\Debug\CalorieCounting.exe
+E:\dev\AdventOfCode2022-CalorieCounting\src\CalorieCounting\CalorieCounting\bin\Debug\CalorieCounting.pdb
+E:\dev\AdventOfCode2022-CalorieCounting\src\CalorieCounting\CalorieCounting\obj\Debug\CalorieCounting.csproj.AssemblyReference.cache
+E:\dev\AdventOfCode2022-CalorieCounting\src\CalorieCounting\CalorieCounting\obj\Debug\CalorieCounting.csproj.SuggestedBindingRedirects.cache
+E:\dev\AdventOfCode2022-CalorieCounting\src\CalorieCounting\CalorieCounting\obj\Debug\CalorieCounting.csproj.CoreCompileInputs.cache
+E:\dev\AdventOfCode2022-CalorieCounting\src\CalorieCounting\CalorieCounting\obj\Debug\CalorieCounting.exe
+E:\dev\AdventOfCode2022-CalorieCounting\src\CalorieCounting\CalorieCounting\obj\Debug\CalorieCounting.pdb
+E:\dev\AdventOfCode2022-CalorieCounting\src\CalorieCounting\CalorieCounting\bin\Debug\CalorieCounting.Tests.dll
+E:\dev\AdventOfCode2022-CalorieCounting\src\CalorieCounting\CalorieCounting\bin\Debug\nunit.framework.dll
+E:\dev\AdventOfCode2022-CalorieCounting\src\CalorieCounting\CalorieCounting\bin\Debug\CalorieCounting.Tests.pdb
+E:\dev\AdventOfCode2022-CalorieCounting\src\CalorieCounting\CalorieCounting\bin\Debug\nunit.framework.xml
+E:\dev\AdventOfCode2022-CalorieCounting\src\CalorieCounting\CalorieCounting\obj\Debug\CalorieCounting.csproj.CopyComplete
