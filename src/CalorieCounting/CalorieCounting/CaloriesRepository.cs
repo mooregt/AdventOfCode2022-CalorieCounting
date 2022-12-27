@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.IO;
 
 namespace CalorieCounting
 {
@@ -14,6 +9,5 @@ namespace CalorieCounting
             string[] lines = File.ReadAllLines("../../../../../libs/input.txt");
             return lines;
         }
-        
     }
 }
