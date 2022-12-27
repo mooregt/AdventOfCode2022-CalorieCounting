@@ -12,8 +12,11 @@ namespace CalorieCounting
         static void Main(string[] args)
         {
             var caloriesRepo = new CaloriesRepository();
-            string[] lines = caloriesRepo.GetCaloriesInput();
-            foreach (string line in lines)
+            var caloriesManager = new CaloriesManager();
+
+            string[] values = caloriesRepo.GetCaloriesInput();
+            List<int> caloriesSums = caloriesManager.CalculateCaloriesSums(values);
+            foreach (int line in caloriesSums)
             {
                 Console.WriteLine(line);
             }
