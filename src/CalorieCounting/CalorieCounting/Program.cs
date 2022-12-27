@@ -11,7 +11,8 @@ namespace CalorieCounting
     {
         static void Main(string[] args)
         {
-            string[] lines = File.ReadAllLines("../../../../../libs/input.txt");
+            var caloriesRepo = new CaloriesRepository();
+            string[] lines = caloriesRepo.GetCaloriesInput();
             foreach (string line in lines)
             {
                 Console.WriteLine(line);
